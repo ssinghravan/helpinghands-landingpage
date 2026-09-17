@@ -1,6 +1,6 @@
 const Home = () => {
   const impactItems = [
-    { icon: "fa-users", label: "1,500+ Lives Impacted" },
+    { icon: "fa-users", label: "5,000+ Lives Impacted" },
     { icon: "fa-graduation-cap", label: "6 Courses Offered" },
     { icon: "fa-certificate", label: "Certificates Provided" },
     { icon: "fa-briefcase", label: "Job Opportunities" },
@@ -71,7 +71,7 @@ const Home = () => {
 
             <div className="hero-stats">
               <div className="stat-item">
-                <div className="stat-number">1,500+</div>
+                <div className="stat-number">5,000+</div>
                 <div className="stat-label">Lives Impacted</div>
               </div>
               <div className="stat-item">
@@ -83,7 +83,7 @@ const Home = () => {
                 <div className="stat-label">Fully Provided</div>
               </div>
               <div className="stat-item">
-                <div className="stat-number">5+</div>
+                <div className="stat-number">8+</div>
                 <div className="stat-label">Years Active</div>
               </div>
             </div>
